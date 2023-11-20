@@ -81,7 +81,38 @@ A new table wil clean data is created. This will allow the analysis to be more a
 
 <img width="1122" alt="image" src="https://github.com/AAGH98/Palestine_Israel_fatalaties/assets/141926743/96689a9e-71c7-4e52-a14e-c25469eb61ec">
 
-- Total rows returned are 10,670 so 454 rows were removed. 
+- Total rows returned are 10,670 so 454 rows were removed.
+
+
+
+
+# Analyse and Share 
+
+The data was stored and prepared for appropriate analysis. Multiple tables have been queried using SQL and visualised in tableau. 
+
+The follwing dashboard on Tableau was created. It shows the total fatalities of palestinians and israeilis from october 2000 to September 2023.
+
+<img width="1214" alt="image" src="https://github.com/AAGH98/Palestine_Israel_fatalaties/assets/141926743/09728747-56a8-4f19-8cd5-3f25d3f2c13a">
+
+#### Per Region:
+
+- Three regions were included in this dataset, which shows where the fatalities occured.
+- The most fatalities occured in the gaza strip with approximatley 7,000 fatalities in 23 years.
+- This shows that the majority of the conflict took place in the Gaza strip.
+
+
+#### Total Fatalities:
+
+- This table shows the total number of fatalities and who they were killed by.
+- The green colour represents Palestinians and the blue colour represents Israelis, which shows that approximatley 90% of Palestinians were killed by Israeli security forces and 9.23% of Israelis were killed by Palestinian civilians. 
+
+
+#### Per Year:
+
+- Overal, Palestinians have a higher fatality rate than Israelis, which increased to a peek of approximatley 2,500 Palestinain fatalities in 2014.
+- Israeli fatalities have been steadily low throughout the years.  
+
+
 
 
 
